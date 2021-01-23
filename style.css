@@ -1,0 +1,80 @@
+#Title{
+    color:white;
+}
+
+
+#Top {
+    background-color: lightpink;
+    text-align: center;
+}
+
+#Main {
+    width: auto;
+}
+
+.Grid_Photos {
+    width: 300px;
+    height: 450px;
+}
+
+#Grid{
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color:lightpink;
+}
+
+#myCarousel img {
+    height: 400px;
+    margin-top: 35px;
+}
+
+.carousel-inner {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#Fitz_Vacker {
+    width: 300px;
+    height: 450px;
+}
+
+
+#Sophie Foster {
+    width: 300px;
+    height: 450px;
+}
+
+
+
+#Biana Vacker {
+    width: 300px;
+    height: 450px;
+}
+
+
+#Marella {
+    width: 300px;
+    height: 450px;
+}
+
+
+
+#Keefe_Sencen {
+    width: 300px;
+    height: 450px;
+}
+
+
+#Dex_Dizznee {
+    width: 300px;
+    height: 450px;
+}
+
